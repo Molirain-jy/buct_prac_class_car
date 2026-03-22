@@ -1,5 +1,5 @@
 # 迷宫小车
-> 由 (Molirain)[https://github.com/Molirain-jy]
+> by [Molirain](https://github.com/Molirain-jy)
 
 ## First: 禁止 vibe coding ！
 
@@ -23,7 +23,7 @@ mpu6050
 ### task_sensor
 
 ### task_dfs
-（不一定采用dfs only，可能会优化，名字不该，因为最初是cubemx生成的）
+（不一定采用dfs only，可能会优化，名字不改，因为最初是cubemx生成的）
 
 ### task_comm
 Bluetooth
